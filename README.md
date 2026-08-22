@@ -1,7 +1,9 @@
 Author: Kenjy : https://www.speedrun.com/users/KenjyLeBest Version: 2.0.0
 
 DESCRIPTION: This mod adds professional speedrun tools for 911 Cannibal:- Internal speedrun timer - Synchronized with the game's timer- Auto-splits system - Drag & drop interface to configure your splits- Run Summary - Complete end-of-run summary- Cheat Detector - Detects suspicious programs during your run- Preset system - Choose object placements (4 presets)- FOV control - Adjust FOV from 30° to 150°- Keyboard overlay - Visual key display
+
 This mod is designed for speedrunning.
+
 ---INSTALLATION:
 
 Prerequisites:
