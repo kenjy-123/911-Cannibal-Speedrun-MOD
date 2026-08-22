@@ -4,9 +4,7 @@ DESCRIPTION: This mod adds professional speedrun tools for 911 Cannibal:- Intern
 
 This mod is designed for speedrunning.
 
----INSTALLATION:
-
-Prerequisites:
+Install:
 1. Install https://melonwiki.xyz/#/?id=requirements 
 2. Launch the game once to generate folders
 3. Copy these files (in 911SPEEDRUNMODv2.0):  - "SpeedrunMod.dll"  - "logo.png"2. Go to the game directory: "911 Cannibal/Mods/" and place them inside
